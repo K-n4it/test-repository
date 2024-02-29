@@ -1,4 +1,5 @@
-this is a sample file with some random text ✌️
+# this is a sample file with some random text ✌️
 
 this is a change I made in my local repository, now i'm gonna send this to github 🫡
-Now i'm modifying this file to see how git pull command works
+Now i'm modifying this file to see how git pull command works 🧍‍♂️
+Another modification, this time to test the git fetch command 👀
